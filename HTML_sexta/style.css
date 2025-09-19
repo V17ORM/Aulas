@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(185, 247, 238);
+}
+#id-2{
+    color:rgb(18, 20, 131);
+    font-size: 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color:rgb(13, 14, 11) ;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+h1{
+
+    color:rgb(0, 0, 0);
+    background-color: rgb(77, 153, 204);
+    margin: 20px;
+    border: 1px solid #111;
+    text-align: center;
+    padding: 40px;
+    border-radius: 2px;
+}
+h2{
+    background-color: rgb(77, 153, 204);
+    border-radius: 2px;
+}
+img{
+    border: 2px solid #111;
+    width: 300px;
+    
+}
+#especial{
+    color:black
+
+}
+.estilo-1{
+    color:black;
+    
+}
+.centra{
+display:block;
+margin:auto;
+}
+.d{
+     background-color: rgb(29, 139, 130);
+     
+}
+.d1{
+    background-color: rgb(10, 167, 57);
+    color: blue;
+     width: 300px;
+     display:inline-block;
+     margin: 20px;
+}
+
+.d2{
+    background-color: rgb(173, 101, 13);
+     width: 200px;
+     display:inline-block;
+     margin: 20px;
+}
+.d3{
+    background-color: rgb(173, 101, 13);
+     width: 200px;
+     display:inline-block;
+     margin: 20px;
+}
+.container{
+    background-color: rgb(10, 167, 57);
+    color: blue;
+     width: 300px;
+     display:inline-block;
+     margin: 20px;
+}
+
+.flutuante{
+    float: left;
+    width: 100px; ;
+    height: 100px;;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+
+}
+
+
+    
